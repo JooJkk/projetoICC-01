@@ -26,7 +26,9 @@ O sistema depende de conexão com a internet e de integração com o banco de da
 
 
 ## Requisitos Funcionais
-| Cabeçalho 1 | Cabeçalho 2 | Cabeçalho 3 |
+| Código | Descrição | Prioridade |
 | --- | --- | --- |
-| Dado A1 | Dado A2 | Dado A3 |
-| Dado B1 | Dado B2 | Dado B3 |
+| RF01 | O sistema deve permitir o registro de ponto de entrada e saída dos clientes e colaboradores da academia. | Alta |
+| RF02 | O sistema deve registrar data, hora e localização do ponto. | Alta |
+| RF03 | O sistema deve registrar e calcular a média do fluxo de clientes por horário e enviar para o gestor. | Média |
+| RF04 | O sistema deve gerar relatórios mensais de frequência. | Alta |
